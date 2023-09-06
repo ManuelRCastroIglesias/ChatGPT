@@ -8,7 +8,7 @@ Para utilizarlo el atajo de teclado es: <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>
 ### Requisitos previos  
 1.	Descargar e instalar Tampermonkey desde este enlace https://www.tampermonkey.net/  
 2.	Suscribirse al plan gratuito de Tampermonkey.  
-Pasos para implementar  
+### Pasos para implementar  
 1.	Abre Tampermonkey en tu navegador.  
 2.	Haz clic en 'Crear un nuevo script'.  
 3.	Copia y pega el siguiente **código de javascript** en el editor:  

@@ -5,7 +5,7 @@ Utilerías para ChatGPT
 ### Introducción  
 Este artículo explica cómo ajustar bloques de código en ChatGPT para mejorar la legibilidad y la experiencia del usuario.  
 ### Requisitos previos  
-1.	Descargar e instalar Tampermonkey desde este enlace.  
+1.	Descargar e instalar Tampermonkey desde este enlace https://www.tampermonkey.net/  
 2.	Suscribirse al plan gratuito de Tampermonkey.  
 Pasos para implementar  
 1.	Abre Tampermonkey en tu navegador.  

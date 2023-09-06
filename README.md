@@ -4,6 +4,7 @@ Utilerías para ChatGPT
 ## Cómo ajustar bloques de código en ChatGPT  
 ### Introducción  
 Este artículo explica cómo ajustar bloques de código en ChatGPT para mejorar la legibilidad y la experiencia del usuario.  
+Para utilizarlo el atajo de teclado es: <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>k</kbd>
 ### Requisitos previos  
 1.	Descargar e instalar Tampermonkey desde este enlace https://www.tampermonkey.net/  
 2.	Suscribirse al plan gratuito de Tampermonkey.  
